@@ -39,7 +39,6 @@ CP SaaS の目的は、成長ではない。
 CP SaaS の実態は、
 
 貢献記録 
-→ CRM 
 → CP Mint 
 → 会計 
 → Token Lifecycle 
